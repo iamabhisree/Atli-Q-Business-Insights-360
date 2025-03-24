@@ -30,7 +30,7 @@ AtliQ Hardware, a global computer hardware company, is implementing data analyti
 - **Git & GitHub** 🖥 (Version control)
 
 ---
-## 📸 Dashboard Screenshots
+## 📸 Overall Report 
 ### 1️⃣ Home View
 [![Screenshot-2025-03-24-134337.png](https://i.postimg.cc/t4Nzhfr6/Screenshot-2025-03-24-134337.png)](https://postimg.cc/FY1cvPXF)
 
@@ -51,8 +51,8 @@ AtliQ Hardware, a global computer hardware company, is implementing data analyti
 ---
 
 ---
-1️⃣ Open **AtliQ_BI_360.pbix** in Power BI Desktop
-2️⃣ Explore different views & analyze insights 🚀
+##1️⃣ Open **AtliQ_BI_360.pbix** in Power BI Desktop
+##2️⃣ Explore different views & analyze insights 🚀
 ---
 ## 🤝 Connect with Me
 🔗 **LinkedIn**: [Vishal Tyagi](https://www.linkedin.com/in/vishal-tyagi00)  
