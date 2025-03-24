@@ -48,7 +48,6 @@ AtliQ Hardware, a global computer hardware company, is implementing data analyti
 
 ### 6️⃣ Executive View
 [![Screenshot-2025-03-24-134503.png](https://i.postimg.cc/026GBjV9/Screenshot-2025-03-24-134503.png)](https://postimg.cc/ZCSy9bkQ)
-
 ---
 
 ---
