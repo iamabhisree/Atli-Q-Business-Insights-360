@@ -1,4 +1,4 @@
-# AtliQ Business Insights 360 📊
+# AtliQ Business Insights 360 🌊
 
 ## 🌟 Project Overview
 AtliQ Hardware, a global computer hardware company, is implementing data analytics for the first time to compete with data-driven rivals. This project builds a **Power BI Dashboard** that provides insights into multiple business areas:
@@ -15,48 +15,52 @@ AtliQ Hardware, a global computer hardware company, is implementing data analyti
 
 ---
 ## 📌 Key Features
-✅ Interactive dashboards with **dynamic filters** and **drill-downs**
-✅ Business insights for **decision-making**
-✅ Implemented **DAX** measures for advanced calculations
-✅ Data **imported, cleaned, and modeled** in Power BI
-✅ **Optimized performance** using star schema
+✅ Interactive dashboards with **dynamic filters** and **drill-downs**  
+✅ Business insights for **decision-making**  
+✅ Implemented **DAX** measures for advanced calculations  
+✅ Data **imported, cleaned, and modeled** in Power BI  
+✅ **Optimized performance** using star schema  
 
 ---
 ## 🛠 Tools & Technologies Used
 - **Power BI** 🚀 (Data modeling, visualization, DAX calculations)
-- **SQL** 🛢 (Data extraction & transformation)
-- **Excel** 📊 (Data preprocessing & validation)
-- **DAX** 🧮 (Custom calculations & measures)
+- **SQL** 🛡 (Data extraction & transformation)
+- **Excel** 📈 (Data preprocessing & validation)
+- **DAX** 🫠 (Custom calculations & measures)
 - **Git & GitHub** 🖥 (Version control)
 
 ---
-## 📸 Overall Report 
+## 📸 Overall Impact
+
 ### 1️⃣ Home View
-[![Screenshot-2025-03-24-134337.png](https://i.postimg.cc/t4Nzhfr6/Screenshot-2025-03-24-134337.png)](https://postimg.cc/FY1cvPXF)
+[![Home View](https://i.postimg.cc/t4Nzhfr6/Screenshot-2025-03-24-134337.png)](https://postimg.cc/FY1cvPXF)
 
 ### 2️⃣ Finance View
-[![Screenshot-2025-03-24-134356.png](https://i.postimg.cc/G3XzfZrx/Screenshot-2025-03-24-134356.png)](https://postimg.cc/MXjyM3nn)
+[![Finance View](https://i.postimg.cc/G3XzfZrx/Screenshot-2025-03-24-134356.png)](https://postimg.cc/MXjyM3nn)
 
 ### 3️⃣ Sales View
-[![Screenshot-2025-03-24-134413.png](https://i.postimg.cc/KvVfGB1K/Screenshot-2025-03-24-134413.png)](https://postimg.cc/KRPBQKrF)
+[![Sales View](https://i.postimg.cc/KvVfGB1K/Screenshot-2025-03-24-134413.png)](https://postimg.cc/KRPBQKrF)
 
 ### 4️⃣ Marketing View
-[![Screenshot-2025-03-24-134433.png](https://i.postimg.cc/g2ZDnjhg/Screenshot-2025-03-24-134433.png)](https://postimg.cc/VJzMhYDt)
+[![Marketing View](https://i.postimg.cc/g2ZDnjhg/Screenshot-2025-03-24-134433.png)](https://postimg.cc/VJzMhYDt)
 
 ### 5️⃣ Supply Chain View
-[![Screenshot-2025-03-24-134448.png](https://i.postimg.cc/rmQGvr6w/Screenshot-2025-03-24-134448.png)](https://postimg.cc/k6RtSDX0)
+[![Supply Chain View](https://i.postimg.cc/rmQGvr6w/Screenshot-2025-03-24-134448.png)](https://postimg.cc/k6RtSDX0)
 
 ### 6️⃣ Executive View
-[![Screenshot-2025-03-24-134503.png](https://i.postimg.cc/026GBjV9/Screenshot-2025-03-24-134503.png)](https://postimg.cc/ZCSy9bkQ)
----
+[![Executive View](https://i.postimg.cc/026GBjV9/Screenshot-2025-03-24-134503.png)](https://postimg.cc/ZCSy9bkQ)
 
 ---
-##1️⃣ Open **AtliQ_BI_360.pbix** in Power BI Desktop
-##2️⃣ Explore different views & analyze insights 🚀
+## 🚀 How to Use
+1️⃣ Open **AtliQ_BI_360.pbix** in Power BI Desktop  
+2️⃣ Explore different views & analyze insights 🚀  
+
 ---
 ## 🤝 Connect with Me
 🔗 **LinkedIn**: [Vishal Tyagi](https://www.linkedin.com/in/vishal-tyagi00)  
-📧 **Email**: tyagivishal8583@gmail.com
+📧 **Email**: tyagivishal8583@gmail.com  
 
 ---
+<div align="center">
 🚀 **Made with ❤️ by Vishal Tyagi** 🚀
+</div>
