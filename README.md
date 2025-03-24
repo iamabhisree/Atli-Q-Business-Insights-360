@@ -38,16 +38,16 @@ AtliQ Hardware, a global computer hardware company, is implementing data analyti
 [![Screenshot-2025-03-24-134356.png](https://i.postimg.cc/G3XzfZrx/Screenshot-2025-03-24-134356.png)](https://postimg.cc/MXjyM3nn)
 
 ### 3️⃣ Sales View
-![Sales](https://postimg.cc/KRPBQKrF)
+[![Screenshot-2025-03-24-134413.png](https://i.postimg.cc/KvVfGB1K/Screenshot-2025-03-24-134413.png)](https://postimg.cc/KRPBQKrF)
 
 ### 4️⃣ Marketing View
-![Marketing](https://postimg.cc/VJzMhYDt)
+[![Screenshot-2025-03-24-134433.png](https://i.postimg.cc/g2ZDnjhg/Screenshot-2025-03-24-134433.png)](https://postimg.cc/VJzMhYDt)
 
 ### 5️⃣ Supply Chain View
-![Supply Chain](https://postimg.cc/k6RtSDX0)
+[![Screenshot-2025-03-24-134448.png](https://i.postimg.cc/rmQGvr6w/Screenshot-2025-03-24-134448.png)](https://postimg.cc/k6RtSDX0)
 
 ### 6️⃣ Executive View
-![Executive](https://postimg.cc/ZCSy9bkQ)
+[![Screenshot-2025-03-24-134503.png](https://i.postimg.cc/026GBjV9/Screenshot-2025-03-24-134503.png)](https://postimg.cc/ZCSy9bkQ)
 
 ---
 
