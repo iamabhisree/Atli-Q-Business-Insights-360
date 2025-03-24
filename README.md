@@ -53,7 +53,6 @@ AtliQ Hardware, a global computer hardware company, is implementing data analyti
 ---
 1️⃣ Open **AtliQ_BI_360.pbix** in Power BI Desktop
 2️⃣ Explore different views & analyze insights 🚀
-
 ---
 ## 🤝 Connect with Me
 🔗 **LinkedIn**: [Vishal Tyagi](https://www.linkedin.com/in/vishal-tyagi00)  
